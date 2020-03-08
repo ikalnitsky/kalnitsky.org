@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://kalnytskyi.com</id>
   <title>Ihor Kalnytskyi</title>
-  <updated>2020-02-02T09:55:10.532917+00:00</updated>
+  <updated>2020-03-08T21:43:49.802289+00:00</updated>
   <link href="https://kalnytskyi.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://kalnytskyi.com" rel="alternate" type="text/html"/>
   <generator uri="https://holocron.readthedocs.io" version="0.4.0">Holocron/v0.4.0</generator>
-  <subtitle>Ihor Kalnytshyi's thoughts &amp; writings</subtitle>
+  <subtitle>Ihor Kalnytskyi's thoughts &amp; writings</subtitle>
   <entry>
     <id>https://kalnytskyi.com/2016/01/02/farewell-2015/</id>
     <title>Farewell, 2015!</title>
-    <updated>2020-02-02T09:55:10.533634+00:00</updated>
+    <updated>2020-03-08T21:43:49.803239+00:00</updated>
     <author>
       <name>Ihor Kalnytskyi</name>
     </author>
@@ -50,7 +50,7 @@ as 2015 was, but hope it will be even better!&lt;/p&gt;
   <entry>
     <id>https://kalnytskyi.com/2015/06/14/mad-map/</id>
     <title>Mad Map: Python Road</title>
-    <updated>2020-02-02T09:55:10.533978+00:00</updated>
+    <updated>2020-03-08T21:43:49.803627+00:00</updated>
     <author>
       <name>Ihor Kalnytskyi</name>
     </author>
@@ -177,13 +177,13 @@ the behavior is still the same -&lt;/p&gt;
 &lt;p&gt;I'm really really sad about such a mad &lt;code&gt;map()&lt;/code&gt; and I wish I never knew
 about that. I don't know why it was designed so, but I hope none of
 pythonistas will use it and one day it will be removed from the language.&lt;/p&gt;</content>
-    <link href="https://kalnytskyi.com/2016/01/02/farewell-2015/" rel="alternate"/>
+    <link href="https://kalnytskyi.com/2015/06/14/mad-map/" rel="alternate"/>
     <published>2015-06-14T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://kalnytskyi.com/2015/02/03/docker-for-pythonistas/</id>
     <title>Docker For Pythonistas</title>
-    <updated>2020-02-02T09:55:10.534297+00:00</updated>
+    <updated>2020-03-08T21:43:49.803902+00:00</updated>
     <author>
       <name>Ihor Kalnytskyi</name>
     </author>
@@ -247,13 +247,13 @@ into &lt;code&gt;/src&lt;/code&gt; inside your container&lt;/li&gt;
 because you don't need to compile missed Python interpreters on every
 machine you're working on. Still, this is one of possible Docker use cases,
 so don't hesitate to find your own.&lt;/p&gt;</content>
-    <link href="https://kalnytskyi.com/2016/01/02/farewell-2015/" rel="alternate"/>
+    <link href="https://kalnytskyi.com/2015/02/03/docker-for-pythonistas/" rel="alternate"/>
     <published>2015-02-03T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://kalnytskyi.com/2014/10/25/c-legacy-is-evil/</id>
     <title>C Legacy Is 😈 Evil</title>
-    <updated>2020-02-02T09:55:10.534435+00:00</updated>
+    <updated>2020-03-08T21:43:49.804153+00:00</updated>
     <author>
       <name>Ihor Kalnytskyi</name>
     </author>
@@ -334,7 +334,7 @@ compilers it may be a big challenge to debug because the bug may be
 floating, so you spent a lot of time to catch it.&lt;/p&gt;
 &lt;p&gt;So you should be mindful writing programs in C++, since you can fall
 into deep hole of C legacy.&lt;/p&gt;</content>
-    <link href="https://kalnytskyi.com/2016/01/02/farewell-2015/" rel="alternate"/>
+    <link href="https://kalnytskyi.com/2014/10/25/c-legacy-is-evil/" rel="alternate"/>
     <published>2014-10-25T00:00:00+00:00</published>
   </entry>
 </feed>
